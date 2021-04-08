@@ -1,5 +1,8 @@
 # streaming-server
 
+A simple server made with Node.js and Koa library
+
+
 To start this server, run this command on Mac:
 
 python -m SimpleHTTPServer 8000 
